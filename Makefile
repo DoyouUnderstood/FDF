@@ -59,3 +59,6 @@ libraries:
 	$(MAKE) -C $(FT_PRINTF_DIR)
 	$(MAKE) -C $(GNL_DIR)
 	$(MAKE) -C $(MINILIBX_DIR)
+
+
+https://github.com/Jean-xavierr/42Philosophers/blob/master/srcs/lib/srcs_philosophers/data_manager.c#L37
